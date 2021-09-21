@@ -1,5 +1,5 @@
 # estadio3DEnVMRL-
-Este es un proyecto escolar de la materia de graficación donde se uso el lenguaje VRL para poder modelar entornos 3D muy básicos pero prácticos
+Este es un proyecto escolar de la materia de graficación donde se uso el lenguaje VMRL para poder modelar entornos 3D muy básicos pero prácticos
 
 el archivoprincipal es NUEVA.wrl, los demas son puras texturas las cuales nos permitio hacer es siguiente estadio en 3D
 
